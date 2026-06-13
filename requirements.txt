@@ -1,6 +1,7 @@
 earthengine-api
 geemap
 streamlit
+streamlit-folium
 pandas
 requests
 matplotlib
